@@ -1,0 +1,14 @@
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\bin\Debug\net8.0\Week3remainderOperator.exe
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\bin\Debug\net8.0\Week3remainderOperator.deps.json
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\bin\Debug\net8.0\Week3remainderOperator.runtimeconfig.json
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\bin\Debug\net8.0\Week3remainderOperator.dll
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\bin\Debug\net8.0\Week3remainderOperator.pdb
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\Week3remainderOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\Week3remainderOperator.AssemblyInfoInputs.cache
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\Week3remainderOperator.AssemblyInfo.cs
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\Week3remainderOperator.csproj.CoreCompileInputs.cache
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\Week3remainderOperator.dll
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\refint\Week3remainderOperator.dll
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\Week3remainderOperator.pdb
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\Week3remainderOperator.genruntimeconfig.cache
+C:\Users\kaare\source\repos\Week3Switch\Week3remainderOperator\obj\Debug\net8.0\ref\Week3remainderOperator.dll
